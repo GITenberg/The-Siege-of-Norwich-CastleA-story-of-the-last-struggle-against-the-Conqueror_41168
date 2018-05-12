@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41017'
     url: http://www.gutenberg.org/2009/agents/41017
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41168#The-Siege-of-Norwich-CastleA-story-of-the-last-struggle-against-the-Conqueror
 gutenberg_issued: '2012-10-24'
 gutenberg_type: Text
 identifiers:
