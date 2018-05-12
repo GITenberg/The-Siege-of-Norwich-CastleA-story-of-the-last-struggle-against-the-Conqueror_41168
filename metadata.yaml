@@ -1,0 +1,26 @@
+_repo: The-Siege-of-Norwich-CastleA-story-of-the-last-struggle-against-the-Conqueror_41168
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41168-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Blake, M. M. (Matilda Maria)
+    alias: Blake, Matilda Maria
+    gutenberg_agent_id: '41017'
+    url: http://www.gutenberg.org/2009/agents/41017
+description: Illustrated by the author.
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'William I, King of England, 1027 or 8-1087 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+title: 'The Siege of Norwich Castle: A story of the last struggle against the Conqueror'
+url: http://www.gutenberg.org/ebooks/41168
